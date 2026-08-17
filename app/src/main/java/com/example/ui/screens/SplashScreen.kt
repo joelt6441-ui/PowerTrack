@@ -192,12 +192,12 @@ fun OnboardingScreen(
         Triple(
             "Check Inverter &\nBattery Health",
             "Know your true usable energy, prevent inverter overload, and avoid unexpected power cuts.",
-            R.drawable.solar_house_hero
+            R.drawable.battery_inverter_hero
         ),
         Triple(
             "What Do I Need?\nCustom Sizing",
             "Simply select your appliances and desired daily hours to get recommended solar panels, battery, and inverter.",
-            R.drawable.solar_house_hero
+            R.drawable.appliances_hero
         )
     )
 
