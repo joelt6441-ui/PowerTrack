@@ -1,0 +1,6 @@
+{
+  "name": "PowerTrack",
+  "description": "Professional mobile solar-system calculator to calculate solar setup capacity, appliance loads, battery runtime, and inverter requirements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
